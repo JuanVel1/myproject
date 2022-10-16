@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6130b93-bcc3-4841-93c2-d36c08c335a6" name="Changes" comment="iniciando">
+      <change beforePath="$PROJECT_DIR$/../../Bases" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bases" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/datos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/datos/DatosPruebaProductos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/datos/DatosPruebaTiendas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/datos/EscritorArchivoOrdenes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/datos/IFuenteDatos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/entidades/base/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/entidades/base/Producto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/entidades/base/Recorrido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/entidades/base/Tienda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/entidades/pedido/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/entidades/pedido/DetallePedido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/entidades/pedido/OrdenPedido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/logica/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/logica/CargadorDatos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/logica/ControlRecorrido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/vista/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/vista/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/pan/panaderia/panaderia/vista/ProgramaPancita.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/OrdenesPedido.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/datos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/datos/DatosPruebaTiendas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/datos/EscritorArchivoOrdenes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/datos/IFuenteDatos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/datos/LectorArchivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/datos/detalles1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/datos/productos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/datos/tiendas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/entidades/base/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/entidades/base/Producto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/entidades/base/Recorrido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/entidades/base/Tienda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/entidades/pedido/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/entidades/pedido/DetallePedido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/entidades/pedido/OrdenPedido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/logica/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/logica/CargadorDatos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/logica/ControlRecorrido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/vista/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/vista/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingenieria de Software I/panaderia/src/vista/ProgramaPancita.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Investigaci-n-de-operaciones" beforeDir="false" afterPath="$PROJECT_DIR$/../../Investigaci-n-de-operaciones" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProgIII" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProgIII" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOS" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proy_automatas-master" beforeDir="false" afterPath="$PROJECT_DIR$/../../proy_automatas-master" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Juan Velasquez &lt;juan.1701812756@ucaldas.edu.co&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GEU2w1WuazXnRPl5Og0szh2MAG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/movies_catalog/templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\once1\Documents\Bootcamp\myproject\movies_catalog\templates" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6130b93-bcc3-4841-93c2-d36c08c335a6" name="Changes" comment="" />
+      <created>1665953033359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665953033359</updated>
+    </task>
+    <task id="LOCAL-00001" summary="iniciando">
+      <created>1665955346161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665955346161</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="iniciando" />
+    <option name="LAST_COMMIT_MESSAGE" value="iniciando" />
+  </component>
+</project>
